@@ -6,6 +6,8 @@ Us, Cat & Sleeping Baby (UCSB) is a 3D fast adventure game where the
 players will be in the role of two siblings who are taking care of a
 baby and home. The game is developed for MMI 505 Game Development Pipeline Course.
 
+[![Watch the video](https://user-images.githubusercontent.com/81522783/158579958-a6055b96-e0cc-493d-b1ae-12ddba0854ff.jpg)](https://www.youtube.com/watch?v=TYq2vLHE5ps&ab_channel=ZaferAlt%C4%B1nsoy)
+
 # Similar Games & Inspiration Sources
 
 The main inspiration for the UCSB is the old co-op NES games. During my
